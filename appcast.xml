@@ -10,19 +10,20 @@
             <description><![CDATA[
                 <h2>Channel Utilities 1.3.2</h2>
                 <ul>
-                    <li>Edit Poly: Fixed channel removal + reorder sync — setup order no longer matters</li>
+                    <li>Edit Poly: Fixed channel removal + reorder state persistence — setup order no longer matters</li>
+                    <li>Version badge in About menu</li>
                     <li>Support This Project menu item (Buy Me a Coffee)</li>
                     <li>Website link in About menu</li>
                 </ul>
             ]]></description>
-            <pubDate>Tue, 18 Feb 2026 22:00:00 +0000</pubDate>
+            <pubDate>Tue, 18 Feb 2026 22:30:00 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/SoundbyJames/channel-utilities-updates/raw/main/ChannelUtilities-1.3.2.zip"
                        type="application/octet-stream"
-                       sparkle:edSignature="aHCxBeLPXp9eJNr+HLoY6dOSMaOQVm/XSV6Kb4Cnr2BtE6RxsFi28DvxG3d11y+smIzHESHD9UCGPimif9N+DA=="
-                       length="56820221" />
+                       sparkle:edSignature="DcEjcfgw2bkrcVhYF6ogBoiOZhGyr1XyN5VUzDYajXwyY5vXrpZM+7GE4wtWJ53SX/zh9ekBDQN48mgIFVtQBg=="
+                       length="56821783" />
         </item>
         
         <item>
