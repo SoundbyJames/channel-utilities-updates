@@ -6,6 +6,30 @@
         <language>en</language>
         
         <item>
+            <title>Version 1.3.3</title>
+            <description><![CDATA[
+                <h2>Channel Utilities 1.3.3</h2>
+                <ul>
+                    <li>First notarized release — clean Gatekeeper experience on all Macs</li>
+                    <li>Universal metadata preservation — all preserveMetadata gates removed, metadata is now unconditional</li>
+                    <li>Channel reorder for Poly Tools — position-based reorder with full metadata rebuild</li>
+                    <li>Join ISO preview phasing fix — poly source ground truth playback</li>
+                    <li>Edit Poly output folder race condition fix</li>
+                    <li>Log popup double-toggle bug fix</li>
+                    <li>Debug logging moved to /tmp (no more Desktop writes)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SoundbyJames/channel-utilities-updates/raw/main/ChannelUtilities-1.3.3.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="RaoD9+Fg3VegSNQr/xyynfxrFg/I4dd2GGTKRWlHUSqOM0j63eC/RBB5iGH65RyzToyIkK2SWd+YmSQjuSGsCQ=="
+                       length="57937539" />
+        </item>
+        
+        <item>
             <title>Version 1.3.2</title>
             <description><![CDATA[
                 <h2>Channel Utilities 1.3.2</h2>
