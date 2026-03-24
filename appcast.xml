@@ -4,6 +4,25 @@
         <title>Channel Utilities Updates</title>
         <description>Most recent updates to Channel Utilities</description>
         <language>en</language>
+        <item>
+            <title>Version 1.3.5</title>
+            <description><![CDATA[
+                <h2>Channel Utilities 1.3.5</h2>
+                <ul>
+                    <li>Fixed 7.1 SMPTE de-interleave swapping side surrounds (Lss/Rss) with rear surrounds (Lsr/Rsr)</li>
+                    <li>Fixed 7.1 SMPTE preview/audition extracting wrong surround channels</li>
+                    <li>Preview cache invalidated to clear stale cached previews</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SoundbyJames/channel-utilities-updates/raw/main/ChannelUtilities-1.3.5.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="DGCpVFDquHagsn/55mxN/p12DHI0aUOF9ERDgz606TSrlxnVEObgDALnpC+rgailTE1HyO8uySa5AiYhtqKfBA=="
+                       length="58398328" />
+        </item>
         
         <item>
             <title>Version 1.3.4</title>
