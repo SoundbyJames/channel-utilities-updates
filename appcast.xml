@@ -5,6 +5,27 @@
         <description>Most recent updates to Channel Utilities</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.6</title>
+            <description><![CDATA[
+                <h2>Channel Utilities 1.3.6</h2>
+                <ul>
+                    <li>Stereo Validator: Clean &amp; Export now writes mono files at the source's bit depth (24-bit stays 24-bit, 16-bit stays 16-bit, float stays float). Previously every file was written as 32-bit float.</li>
+                    <li>Stereo Validator: Clean &amp; Export now keeps the source's metadata: BWF timecode and description, iXML (updated for the one track kept), and embedded library tags such as Soundminer.</li>
+                    <li>Stereo Validator: the log shows each file's output format and which metadata was kept</li>
+                    <li>Stereo Validator: output is checked before an original is replaced, so a failed conversion leaves the source untouched</li>
+                    <li>Metadata tools now run natively on Intel Macs</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SoundbyJames/channel-utilities-updates/raw/main/ChannelUtilities-1.3.6.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="rK7T5oQQh1mXKAbvpX/LhM/mSyrHEKJUiFMbGt1h7CNmLgsTEbzjldNUr/Xw0ObVc7Z6m4TRHCdmmF7Zm70cBw=="
+                       length="61838648" />
+        </item>
+        <item>
             <title>Version 1.3.5</title>
             <description><![CDATA[
                 <h2>Channel Utilities 1.3.5</h2>
